@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color:rgb(30, 167, 126);
+}
+
+.body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif,
+    'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+}
+
+.header{
+    align-items: center;
+    background-color: rgb(30, 167, 126);
+    color: black;
+    display: flex;
+    justify-content: center;
+    padding: 10px 10px;
+    font-family: sans-serif;
+}
+
+.article{
+    background-color: rgb(30, 167, 126);
+    font-family: sans-serif;
+    margin-top: 50px;
+    margin-left: 100px;
+
+}
